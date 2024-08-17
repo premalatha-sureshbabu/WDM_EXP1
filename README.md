@@ -54,6 +54,16 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+Employee Table
+
+
+![Screenshot 2024-08-10 181249](https://github.com/user-attachments/assets/dd25215f-bae9-4fc2-afab-d58ada49f21b)
+
+
+Weather Table
+
+
+![Screenshot 2024-08-10 181447](https://github.com/user-attachments/assets/26e934ad-9b09-4fb8-bdc6-07e41158d0f4)
 
 
 ### PREPROCESSING
@@ -73,6 +83,13 @@ rainy,75.0,80.0,false,yes
 12) Press the Apply button, then a new attribute is added to the Weather Table.
 13) Save the file.
 14) Click on the Edit button, it shows a new Weather Table on Weka.
+## OUTPUT:
+
+
+Weather Table after adding new attribute CLIMATE:
+
+
+![Screenshot 2024-08-10 181718](https://github.com/user-attachments/assets/5bf046f9-3f79-4d09-aba6-6d4c685acf2b)
 
 ### OUTPUT:
 
@@ -89,6 +106,13 @@ rainy,75.0,80.0,false,yes
 9) Select the attributes windy, play to Remove.
 10) Click Remove button and then Save.
 11) Click on the Edit button, it shows a new Weather Table on Weka.
+## OUTPUT:
+
+
+Weather Table after removing attributes WINDY,PLAY:
+
+
+![Screenshot 2024-08-10 181937](https://github.com/user-attachments/assets/c2aa13c5-4f24-46df-8f08-a497dfd9e231)
 
 ### OUTPUT:
 
@@ -106,6 +130,12 @@ rainy,75.0,80.0,false,yes
 10) Click on Apply button and then Save.
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
-### OUTPUT:
+## OUTPUT:
+
+Weather Table after Normalizing TEMPERATURE, HUMIDITY:
+
+
+![Screenshot 2024-08-10 182158](https://github.com/user-attachments/assets/6685264c-4538-4d04-973e-fdc42e563842)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
